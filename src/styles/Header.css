@@ -1,0 +1,13 @@
+.text-bg-dark {
+  height: 50px;
+  width: 400px;
+}
+.header{
+  display: flex;
+  justify-content: center;
+}
+.col-auto{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}

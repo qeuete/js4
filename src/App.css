@@ -1,0 +1,29 @@
+.AppMain{
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.topfilmsbtn{
+    display: flex;
+    justify-content: center;
+}
+.films-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card {
+    margin: 25px;
+}
+body {
+    background-image: url('../public/blue-black-abstract-background_1340-17010.avif');
+}
+
+.mb-3{
+    background-color: #285aff;
+}
+  
+

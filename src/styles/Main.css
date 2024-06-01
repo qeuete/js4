@@ -1,0 +1,7 @@
+.me-2{
+  display: flex;
+  align-items: center;
+  background-color: rgb(63, 82, 248);
+  font-weight: bolder;
+  color: aliceblue;
+}
